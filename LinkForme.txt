@@ -1,0 +1,7 @@
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_circle/hough_circle.html#hough-circle
+
+http://stackoverflow.com/questions/11424002/how-to-detect-simple-geometric-shapes-using-opencv
+
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html
+
+http://docs.opencv.org/2.4/modules/imgproc/doc/imgproc.html

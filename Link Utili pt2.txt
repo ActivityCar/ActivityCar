@@ -1,0 +1,13 @@
+http://www.anddev.it/index.php?topic=6190.0
+
+http://www.dmi.unict.it/fstanco/Multimedia/approfondimento%2013%20-%20open%20Cv.pdf
+
+https://hackerstribe.com/2014/rilevare-e-tracciare-gli-oggetti-con-opencv/
+
+http://opencv-java-tutorials.readthedocs.io/en/latest/08-object-detection.html
+
+http://www.allafinedelpalo.it/la-libreria-opencv-4-edge-detection-con-lalgoritmo-di-canny/
+
+http://www.allafinedelpalo.it/la-libreria-opencv-5-trasformata-di-hough/
+
+http://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/hough_circle/hough_circle.html#hough-circle

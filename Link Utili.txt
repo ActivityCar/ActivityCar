@@ -1,0 +1,5 @@
+Inseriamo in questo file ogni link che ci può tornare utile.
+
+-- Installare mono ed usare C# su raspberry pi
+
+http://logicalgenetics.com/raspberry-pi-and-mono-hello-world/
